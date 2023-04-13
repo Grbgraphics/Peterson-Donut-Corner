@@ -51,6 +51,12 @@ nav a:hover {
 	background-color: blue;
 }
 
+.wallpaper{
+         Clear: both;
+         Border: 2px solid red;
+}
+
+
 .center-image {
 	height: 40vh;
         Margin: 0 auto;
