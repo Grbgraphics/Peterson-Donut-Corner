@@ -119,37 +119,6 @@ nav a:hover {
   justify-content: center;
 }
 
-.column {
-  width: 30%;
-  margin: 10px;
-  text-align: center;
-}
-
-.column img {
-  width: 100%;
-}
-
-.column h3 {
-  font-family: Arial, sans-serif;
-  font-size: 24px;
-  font-weight: bold;
-  color: #333;
-  margin-top: 10px;
-}
-
-.column:nth-child(odd) {
-  float: left;
-}
-
-.column:nth-child(even) {
-  float: right;
-}
-
-img {
-  display: block;
-}
-
-
 
 
 
