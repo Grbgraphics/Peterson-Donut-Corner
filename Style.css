@@ -114,41 +114,36 @@ nav a:hover {
 }
 
 .mid-section {
-  background-color: #f2f2f2;
-  padding: 50px 0;
-}
-
-.row {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
-  margin-bottom: 30px;
 }
 
-.col-6 {
-  flex: 0 0 50%;
-  max-width: 50%;
-}
-
-.order-1 {
-  order: 1;
-}
-
-.order-2 {
-  order: 2;
-}
-
-h3 {
-  font-size: 24px;
+.column {
+  width: 30%;
+  margin: 10px;
   text-align: center;
-  margin: 0;
-  padding: 20px;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
+.column img {
+  width: 100%;
 }
+
+.column h3 {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-top: 10px;
+}
+
+.column:nth-child(odd) {
+  float: left;
+}
+
+.column:nth-child(even) {
+  float: right;
+}
+
 
 
