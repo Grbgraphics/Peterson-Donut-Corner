@@ -128,13 +128,15 @@ nav a:hover {
   justify-content: center;
   align-items: center;
   background-color: #f1f1f1;
+  Border: 2px solid red;
 }
 
 .right-div {
   flex-basis: 50%;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; 
+  border: 2px solid red;
 }
 
 h3 {
