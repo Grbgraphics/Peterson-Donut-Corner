@@ -59,3 +59,7 @@ nav a:hover {
 	align-items: center;
 	justify-content: center;
 }
+.logo-caption {
+	font-size: 45px;
+	text-align: center;
+}
