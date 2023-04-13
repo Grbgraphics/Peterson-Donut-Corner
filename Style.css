@@ -142,9 +142,12 @@ h3 {
 }
 
 
-.muffin-image {
-  width: 95%;
+.muffin-image {width: 100%;
   max-width: 400px;
+  transform: scale(1.2);
+  position: relative;
+  left: -20px;
+  overflow: visible;
 }
 
 
