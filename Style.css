@@ -113,9 +113,37 @@ nav a:hover {
   font-size: 45px;
 }
 
+
+
 .mid-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
 
+.left-div {
+  flex-basis: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f1f1;
+}
 
+.right-div {
+  flex-basis: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+  font-size: 36px;
+}
+
+img {
+  width: 100%;
+  max-width: 400px;
 }
 
 
