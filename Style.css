@@ -113,4 +113,42 @@ nav a:hover {
   font-size: 45px;
 }
 
+.mid-section {
+  background-color: #f2f2f2;
+  padding: 50px 0;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.col-6 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+.order-1 {
+  order: 1;
+}
+
+.order-2 {
+  order: 2;
+}
+
+h3 {
+  font-size: 24px;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 
