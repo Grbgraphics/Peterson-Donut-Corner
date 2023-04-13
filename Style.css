@@ -88,6 +88,7 @@ nav a:hover {
 }
 
 .local-est {
+        Height: 100px;
 	font-size: 50px;
 	text-align: center;
         padding: 30px 10px;
