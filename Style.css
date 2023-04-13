@@ -40,7 +40,7 @@ nav li {
 
 nav a {
 	display: block;
-	padding: 25px 20px;
+	padding: 25px 10px;
 	text-decoration: none;
 	color: inherit;
 	text-align: center;
@@ -48,7 +48,7 @@ nav a {
 }
 
 nav a:hover {
-	background-color: #555;
+	background-color: blue;
 }
 
 .center-image {
