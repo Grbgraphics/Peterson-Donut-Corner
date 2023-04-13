@@ -52,6 +52,7 @@ nav a:hover {
 }
 
 .wallpaper{
+         display: block;
          Clear: both;
          Border: 2px solid red;
 }
