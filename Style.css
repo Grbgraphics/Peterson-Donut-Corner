@@ -75,11 +75,12 @@ nav a:hover {
 }
  
 .paragraph-container {
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
   padding: 20px;
-  background-color: #fff;
+  background-color:  #152563;
   border: 1px solid #ccc;
+  color: #fff;
 }
 
 
