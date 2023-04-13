@@ -67,6 +67,6 @@ nav a:hover {
 	text-align: center;
         padding: 35px 10px;
         color: #152563;
-        Display:block;
+        Display:inline block;
 
 }
