@@ -60,6 +60,7 @@ nav a:hover {
 	align-items: center;
 	justify-content: center;
         Clear:both;
+        Text-align: center;
 }
 .logo-caption {
 	font-size: 75px;
