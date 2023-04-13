@@ -61,15 +61,15 @@ nav a:hover {
 	justify-content: center;
         Clear:both;
         Text-align: center;
-        Padding: 20px;
+        Padding: 2px;
 }
 .logo-caption {
 	font-size: 75px;
 	text-align: center;
-        padding: 35px 10px;
+        padding: 5px 10px;
         color: #152563;
         Display: block;
-        margin-top: 50px;
+        margin-top: 20px;
         Clear: both;
 
 }
