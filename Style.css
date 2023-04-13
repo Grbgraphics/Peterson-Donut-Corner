@@ -6,8 +6,8 @@
 }
 
 .header {
-	height: 16%;
-	background-color: #152563;
+	height: 25%;
+        background-color: #152563;
 }
 
 .logo {
@@ -24,7 +24,7 @@ nav {
 	align-items: center;
 	background-color: #fff;
 	color: #152563;
-	font-size: 40px;
+	font-size: 65px;
 	font-weight: bold;
 	font-family: 'Bungee', cursive;
 }
@@ -40,7 +40,7 @@ nav li {
 
 nav a {
 	display: block;
-	padding: 25px 10px;
+	padding: 25px 15px;
 	text-decoration: none;
 	color: inherit;
 	text-align: center;
