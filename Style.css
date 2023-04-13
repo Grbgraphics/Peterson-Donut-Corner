@@ -66,7 +66,7 @@ nav a:hover {
 
 .content {
   margin-top: 10px; /* adjust as needed */
-  Border: red;
+  Border: 2px solid red;
 }
 
 .logo-caption {
