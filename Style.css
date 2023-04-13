@@ -130,6 +130,7 @@ nav a:hover {
   align-items: center;
   background-color: #fff;
   Border: 2px solid red;
+  height: 100px;
 }
 
 .right-div {
