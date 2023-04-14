@@ -311,5 +311,19 @@ footer .social-icons a {
   Border: 2px solid red;
 }
 
+.paragraph-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.phone {
+  font-size: 1.5rem; /* adjust the font size as needed */
+  margin-top: 1rem; /* add some margin between the text and the link */
+}
+
+
 
 
