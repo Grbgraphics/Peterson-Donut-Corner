@@ -322,7 +322,7 @@ footer .social-icons a {
 .phone {
   font-size: 100px; /* adjust the font size as needed */
   margin-top: 1rem; /* add some margin between the text and the link */
-  color: #333; /* set text color to dark grey */
+  color: #fff; 
   text-decoration: none; /* remove underline */
   transition: color 0.2s ease-in-out; /* add smooth color transition on hover */
 }
