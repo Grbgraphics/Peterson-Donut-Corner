@@ -298,11 +298,13 @@ footer .social-icons a {
   align-items: center;
   height: 400px;
   Clear: both;
+  Margin-top: 50px;
   Margin-bottom: 100px;
   Border: 2px solid red;
 }
 
 .locations-container{
+  margin-top: 50px;
   margin-bottom: 50px;
   Clear: both;
   Display: block;
