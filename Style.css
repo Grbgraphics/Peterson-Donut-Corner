@@ -293,7 +293,7 @@ footer .social-icons a {
 }
 
 .map-container {
-  display: flex;
+  display: block;
   justify-content: center;
   align-items: center;
   height: 400px;
