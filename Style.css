@@ -287,14 +287,14 @@ footer .social-icons a {
 
 .fa.fa-phone {
   color: #fff;
-  Width: 25px;
-  Height: 25px;
+  Clear: both;
+  
 }
 
 .fab.fa-instagram {
   color: #fff;
-  width: 25px;
-  height: 25px;
+  clear: both;
+  
   
 }
 
