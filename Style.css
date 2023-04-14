@@ -293,12 +293,12 @@ footer .social-icons a {
 }
 
 .map-container {
-  display: block;
+  display: flex;
   justify-content: center;
   align-items: center;
   height: 400px;
   Clear: both;
-  Padding-bottom: 10 px;
+  Margin-bottom: 15 px;
 }
 
 
