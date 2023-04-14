@@ -205,7 +205,7 @@ h3 {
 }
 
 footer .footer-nav {
-  background-color: grey;
+  background-color: #152563;;
   color: white;
   text-align: center;
 }
@@ -226,7 +226,7 @@ footer .footer-nav li {
 
 footer .footer-nav a {
   display: block;
-  padding: 1em;
+  padding: 10px;
   color: white;
   text-decoration: none;
 }
