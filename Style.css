@@ -299,13 +299,14 @@ footer .social-icons a {
   height: 400px;
   Clear: both;
   Margin-bottom: 100px;
+  Border: 2px solid red;
 }
 
 .locations-container{
   margin-bottom: 50px;
   Clear: both;
   Display: block;
-  
+  Border: 2px solid red;
 }
 
 
