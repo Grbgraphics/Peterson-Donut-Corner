@@ -131,7 +131,7 @@ nav a:hover {
   background-color: #fff;
   Border: 2px solid red;
   height: 100px;
-  font-size: 100px;
+ 
 }
 
 .right-div {
@@ -141,6 +141,7 @@ nav a:hover {
   align-items: center; 
   border: 2px solid red;
   Height:600 px;
+  font-size: 100px;
 }
 
 h3 {
