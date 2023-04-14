@@ -228,6 +228,7 @@ footer .footer-nav {
   background-color: #152563;
   color: white;
   text-align: center;
+  Text-size: 15px;
 }
 
 footer .footer-nav ul {
@@ -249,7 +250,7 @@ footer .footer-nav a {
   padding: 10px;
   color: white;
   text-decoration: none;
-  Text-size: 15px;
+ 
 }
 
 footer .footer-nav a:hover {
