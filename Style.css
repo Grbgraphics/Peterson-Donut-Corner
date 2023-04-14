@@ -144,6 +144,42 @@ nav a:hover {
   font-size: 100px;
 }
 
+
+.mid-section-two{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+  Border: 2px solid red;
+}
+
+.left-div-two {
+  flex-basis: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  Border: 2px solid red;
+  height: 100px;
+ 
+}
+
+.right-div-two {
+  flex-basis: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  border: 2px solid red;
+  Height:600 px;
+  font-size: 100px;
+}
+
+
+
+
+
+
+
 h3 {
   font-size: 90;
   Color: #152563;
