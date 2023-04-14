@@ -303,6 +303,9 @@ footer .social-icons a {
 
 .location-container{
   margin-bottom: 15px;
+  Clear: both;
+  Display: block;
+  
 }
 
 
