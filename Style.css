@@ -236,5 +236,24 @@ footer .footer-nav a:hover {
 }
 
 
+.social-icons {
+  margin-top: 20px;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin: 0 10px;
+  color: white;
+  font-size: 2em;
+}
+
+.fas.fa-phone {
+  color: white;
+}
+
+.fab.fa-instagram {
+  color: white;
+}
+
 
 
