@@ -263,9 +263,13 @@ footer .footer-nav a:hover {
 }
 
 
+footer .social-icons {
+  text-align: center;
+}
+
 footer .social-icons a {
   display: inline-block;
-  margin: 0 10px; /* add some space between the icons */
+  margin: 0 10px;
 }
 
 
