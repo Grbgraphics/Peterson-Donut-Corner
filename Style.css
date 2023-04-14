@@ -204,6 +204,13 @@ h3 {
   max-width: 800px;
 }
 
+
+
+footer {
+  background-color: #152563;
+}
+
+
 footer .footer-nav {
   background-color: #152563;
   color: white;
