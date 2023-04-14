@@ -292,5 +292,12 @@ footer .social-icons a {
   
 }
 
+.map-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
 
 
