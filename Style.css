@@ -206,6 +206,19 @@ h3 {
 
 
 
+.footer-title {
+        Height: 15%;
+	font-size: 50px;
+	text-align: center;
+        padding: 30px 10px;
+        color: #fff;
+        Display: block;
+        margin-top: 20px;
+        Clear: both;
+
+}
+
+
 footer {
   background-color: #152563;
 }
