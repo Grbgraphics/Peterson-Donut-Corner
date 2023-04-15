@@ -52,7 +52,8 @@ nav a:hover {
 }
 
 .wallpaper {
-  position: relative;
+  Display: block;
+  Clear: both;
 }
 
 .center-image {
