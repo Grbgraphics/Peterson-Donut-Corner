@@ -59,20 +59,16 @@ nav a:hover {
 }
 
 .center-image {
-  height: 300px; /* set the desired height of the image */
-  margin: 50px auto 300px; /* add margin-bottom that matches the height of the image */
-  background-size: contain;
-  background-position: center;
-  display: block;
-  align-items: center;
-  justify-content: center;
-  clear: both;
-  text-align: center;
-  padding: 2px;
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
+	height: 10%;
+        Margin: 50px auto;
+	background-size: cover;
+	background-position: center;
+	display: block;
+	align-items: center;
+	justify-content: center;
+        Clear:both;
+        Text-align: center;
+        Padding: 2px;
 }
 
 .content {
