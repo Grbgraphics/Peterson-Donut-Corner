@@ -51,17 +51,14 @@ nav a:hover {
 	background-color: blue;
 }
 
-.wallpaper{
-         display: block;
-         Clear: both;
-         
+.wallpaper {
+  position: relative;
 }
-
 
 .center-image {
   height: 300px; /* set the desired height of the image */
-  margin: 50px auto;
-  background-size: contain; /* change the background-size property to contain */
+  margin: 50px auto 300px; /* add margin-bottom that matches the height of the image */
+  background-size: contain;
   background-position: center;
   display: block;
   align-items: center;
@@ -69,13 +66,26 @@ nav a:hover {
   clear: both;
   text-align: center;
   padding: 2px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
 }
-
 
 .content {
-  margin-top: 10px; /* adjust as needed */
- 
+  margin-top: 10px;
 }
+
+.logo-caption {
+  font-size: 75px;
+  text-align: center;
+  padding: 5px 10px;
+  color: #152563;
+  display: block;
+  margin-top: 20px;
+  clear: both;
+}
+
 
 .logo-caption {
 	font-size: 75px;
