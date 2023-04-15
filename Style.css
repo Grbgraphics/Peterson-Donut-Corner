@@ -8,6 +8,7 @@
 .header {
 	height: 250px;
         background-color: #152563;
+        Display: block;
 }
 
 .logo {
@@ -27,6 +28,7 @@ nav {
 	font-size: 50px;
 	font-weight: bold;
 	font-family: 'Bungee', cursive;
+        Clear: both;
 }
 
 nav ul {
