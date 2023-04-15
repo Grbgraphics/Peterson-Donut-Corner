@@ -59,7 +59,7 @@ nav a:hover {
 }
 
 .center-image {
-	height: 10%;
+	height:  auto;
         Margin: 50px auto;
 	background-size: cover;
 	background-position: center;
@@ -69,6 +69,7 @@ nav a:hover {
         Clear:both;
         Text-align: center;
         Padding: 2px;
+        Width: 50%
 }
 
 .content {
