@@ -52,6 +52,8 @@ nav a:hover {
 	background-color: blue;
 }
 
+.active { text-decoration: underline solid red 2px;
+}
 
 
 
