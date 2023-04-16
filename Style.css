@@ -66,8 +66,14 @@ nav li {
 .active {
   background-color: #4CAF50;
   color: white;
+  
+}
+
+a:visited {
+  color: purple;
   text-decoration: underline;
 }
+
 
 
 
