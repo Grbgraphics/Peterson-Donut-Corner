@@ -61,13 +61,12 @@ nav li {
   color: black;
 }
 
-.navbar a.active {
-  border-bottom: 2px solid red;
-}
+
 
 .active {
   background-color: #4CAF50;
   color: white;
+  text-decoration: underline;
 }
 
 
