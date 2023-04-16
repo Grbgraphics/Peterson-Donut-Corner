@@ -46,7 +46,7 @@ nav a {
 	color: inherit;
 	text-align: center;
 	text-transform: uppercase;
-       transition-duration: 0.3s; 
+       transition-duration: 1.0s; 
 }
 
 nav a:hover {
