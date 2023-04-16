@@ -66,11 +66,7 @@ nav .active a {
 
 
 
-.active {
-  background-color: #4CAF50;
-  color: white;
-  
-}
+
 
 a:visited {
   color: purple;
