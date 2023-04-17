@@ -61,25 +61,19 @@ nav a:hover {
 .wallpaper {
   Display: block;
   Clear: both;
-  max-width: 100%;
-  height: auto;
-  max-height: 300px;
-  Border: 2px solid red;
 }
 
 .center-image {
-    height: 10%;
-    margin: 50px auto;
-    background-size: contain;
-    background-position: center;
-    display: block;
-    align-items: center;
-    justify-content: center;
-    clear:both;
-    text-align: center;
-    padding: 2px;
-    max-width: 100%;
-    border: 2px solid red;
+	height: 10%;
+        Margin: 50px auto;
+	background-size: cover;
+	background-position: center;
+	display: block;
+	align-items: center;
+	justify-content: center;
+        Clear:both;
+        Text-align: center;
+        Padding: 2px;
 }
 
 
