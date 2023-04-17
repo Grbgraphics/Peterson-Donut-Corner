@@ -73,6 +73,7 @@ nav a {
         Clear:both;
         Text-align: center;
         Padding: 2px;
+        Border: 2px solid red;
 }
 
 
