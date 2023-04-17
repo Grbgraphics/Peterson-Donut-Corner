@@ -43,14 +43,14 @@ nav a {
 	display: block;
 	padding: 25px 10px;
 	text-decoration: none;
-	color: red;
+	color: inherent;
 	text-align: center;
 	text-transform: uppercase;
        transition-duration: 1.0s; 
 }
 
 nav a:hover {
-	color: red;
+	color: black;
 }
 
 .active { text-decoration: underline;
