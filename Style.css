@@ -64,6 +64,7 @@ nav a:hover {
   max-width: 100%;
   height: auto;
   max-height: 300px;
+  Border: 2px solid red;
 }
 
 .center-image {
@@ -78,6 +79,7 @@ nav a:hover {
     text-align: center;
     padding: 2px;
     max-width: 100%;
+    border: 2px solid red;
 }
 
 
