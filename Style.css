@@ -75,7 +75,10 @@ nav a {
         Padding: 2px;
         Border: 2px solid red;
 }
-
+.donut-centerpiece{
+        height: 100px;
+        Width: auto;
+}
 
 .content {
   margin-top: 10px;
