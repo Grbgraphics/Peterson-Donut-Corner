@@ -365,6 +365,16 @@ footer .social-icons a {
   /* Styles for tablets go here */
 }
 
+
+
+
+
+
+
+
+
+
+
 /* For computers */
 @media only screen and (min-width: 1025px) {
   * {
@@ -375,7 +385,7 @@ footer .social-icons a {
 }
 
 .header {
-	height: 250px;
+	height: 100px;
         background-color: #152563;
         Display: block;
 }
