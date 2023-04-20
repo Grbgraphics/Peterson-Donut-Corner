@@ -362,7 +362,29 @@ footer .social-icons a {
 
 /* For tablets */
 @media only screen and (min-width: 601px) and (max-width: 1024px) {
-  /* Styles for tablets go here */
+  
+
+   * {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+        font-family: 'Roboto', sans-serif;
+}
+
+.header {
+	height: 100px;
+        background-color: #152563;
+        Display: block;
+}
+
+.logo {
+	height: 95%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+  
 }
 
 
